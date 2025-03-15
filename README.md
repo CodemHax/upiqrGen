@@ -30,6 +30,6 @@ A simple Android app for generating and sharing QR codes for UPI payments.
 
 ## License
 
-[Your license information here]
+[MIT](https://github.com/CodemHax/upiqrGen/blob/main/LICENSE)
 
 Developed by CodemHax
